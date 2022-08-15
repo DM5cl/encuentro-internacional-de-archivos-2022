@@ -49,6 +49,10 @@
   </url>
   
   <url>
+    <loc>/en/01_en/</loc>
+  </url>
+  
+  <url>
     <loc>/_bibliography/</loc>
   </url>
   
@@ -61,7 +65,11 @@
   </url>
   
   <url>
-    <loc>/_intro/</loc>
+    <loc>/en/02_en/</loc>
+  </url>
+  
+  <url>
+    <loc>/fr/01_fr/</loc>
   </url>
   
 </urlset>
