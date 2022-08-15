@@ -141,15 +141,15 @@
   {{ .Site.Data.publication.license.name }}
   {{ end }} license.
 {{- else -}}
-  This work is licensed under a
+  Esta obra está liberado bajo una licencia 
   {{ with .Site.Data.publication.license.url }}<a rel="license" href="{{ . | relURL }}" target="_blank">{{ end }}
   {{ .Site.Data.publication.license.name }}
   {{ with .Site.Data.publication.license.url }}</a>{{ end }}
 {{- end -}}
 <span class="is-print-only">
-  To view a copy of this license{{ with .Site.Data.publication.license.url }},
-  visit {{ . }} or{{ end }}
-  send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042.
+  Para ver una copia de esta licencia {{ with .Site.Data.publication.license.url }},
+  visita {{ . }} o {{ end }}
+  escribe a Creative Commons, PO Box 1866, Mountain View, CA 94042.
 </span>
 
 {{ end }}

@@ -5,7 +5,14 @@ menu: false
 type: cover
 slug: .
 toc: false
-image: pattern-spiral-overlay.png
+image: cover.jpg
 ---
 
-In the 1930s, during America's worst financial crises, the administration of President Franklin D. Roosevelt employed photographers to document the plight of everyday folk in the Great Depression in order to push forward with their New Deal programs. Documentary photographers Dorothea Lange and Walker Evans were prolific frontrunners of these efforts and their extraordinary photographs continue to endure today. Their artistic and documentary mastery and historical importance provide key insight into a monumental turning point in American history.
+El pasado 28 y 29 de abril del 2022, se celebró el Primer Encuentro de
+Archivos de Artes de acceso abierto que organizó la Facultad de Artes de
+la Pontificia Universidad Católica de Chile, con el apoyo de la Comisión
+del Programa de Archivos de Literatura y Artes del Consejo Internacional
+de Archivos, ICA.
+
+Con el objetivo de crear una red de archivos artísticos
+latinoamericanos, donde compartir experiencias y discutir en torno a las prácticas documentales que caracterizan a los archivos de arte, se convocó a Instituciones e investigadores que custodian acervos, fondos y colecciones nacionales y extranjeras.
