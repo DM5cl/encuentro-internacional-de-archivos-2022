@@ -1,4 +1,5 @@
 ---
+label: I
 title: 'Presentación'
 subtitle: 'Del arte al archivo y del archivo al arte'
 type: page
@@ -17,6 +18,9 @@ contributor:
     url:
     bio:
 ---
+Read [this article in english](/en/01_en/) | Lire [ce texte en français](/fr/01_fr/)
+
+
 El pasado 28 y 29 de abril del 2022, se celebró el Primer Encuentro de
 Archivos de Artes de acceso abierto que organizó la Facultad de Artes de
 la Pontificia Universidad Católica de Chile, con el apoyo de la Comisión

@@ -32,7 +32,7 @@ identifier:
   url:
 
 publisher:
-  - name: Lucho Tapia
+  - name: Facultad de Artes, Pontificia Universidad Católica de Chile
     location: Santiago de Chile
     url:
     logo: logo-getty.png
@@ -41,15 +41,16 @@ publisher:
 # Contributors
 # ------------------------------------------------------------------------------
 
-contributor_as_it_appears:
+contributor_as_it_appears: Yaminel Bernal Astorga, Luis Miguel García Velázquez, María Rodríguez Jaime, María José Lemaître, Isabel Cáceres, Natalia Efron, Eugenia Sik, Paulina Bravo, Paola Letelier, Jeannette Garcés, Isidora Neira, Sol Henaro, Isabel García Pérez de Arce, Patrizio Gecele Muñoz.<br /><i> Presentación de Alejandra Wolff</i>
 
-contributor:
-  - id: Alejandra Wolff
+contributor: 
+  - id: main
     type: primary
     first_name: Alejandra
     last_name: Wolff
-    title: 'Directora de Archivo y Patrimonio'
-    affiliation: 'Facultad de Artes, Pontificia Universidad Católica de Chile'
+    title: 
+    role: editor
+    affiliation: 
 
 
 # ------------------------------------------------------------------------------
