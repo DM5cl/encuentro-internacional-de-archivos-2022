@@ -77,7 +77,7 @@ module.exports = {
             loader: "file-loader",
             options: {
               name: "[name].[ext]",
-              outputPath: "img/"
+              outputPath: "lavoraginelab/encuentro_internacional_de_archivos/img/"
             }
           }
         ]
