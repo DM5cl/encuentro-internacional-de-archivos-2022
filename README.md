@@ -1,3 +1,9 @@
+## Read me
+
+Esta es la página del proyecto de edición (en desarrollo) del libro que recoge las ponencias dadas en el marco del primer congreso de archivos latinoamericanos. A continuación, registro de cosas pendientes o en proceso de corrección o que merecen corrección. 
+
+
+
 ## problemas
 
 - falta img 5 en: `04.md`
