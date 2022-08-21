@@ -10,7 +10,7 @@
 baseURL: ""
 
 title: "Quire Starter"
-languageCode: "es"
+languageCode: "en-us"
 theme: "default"
 publishDir: site
 
