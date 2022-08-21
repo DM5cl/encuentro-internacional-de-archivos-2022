@@ -126,10 +126,10 @@ subject:
 # ------------------------------------------------------------------------------
 
 revision_history:
-  - date:
+  - date: 21-08-2022
     summary:
 
-repository_url:
+repository_url: https://github.com/lavoraginelab/encuentro_internacional_de_archivos
 
 # ------------------------------------------------------------------------------
 # Promo Image

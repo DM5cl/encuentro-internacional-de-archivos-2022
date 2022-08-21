@@ -10,7 +10,7 @@
 baseURL: ""
 
 title: "Quire Starter"
-languageCode: "en-us"
+languageCode: "es"
 theme: "default"
 publishDir: site
 
@@ -42,8 +42,8 @@ params:
   biblioHeading: "Bibliography"
   imageDir: "img"
   menuClass: brief # brief | list
-  prevPageButtonText: "Back"
-  nextPageButtonText: "Next"
+  prevPageButtonText: "Anterior"
+  nextPageButtonText: "Siguiente"
   entryPageSideBySideLayout: false
   entryPageObjectLinkText: "View in Collection"
   figureLabelLocation: on-top # below | on-top
