@@ -49,10 +49,6 @@
   </url>
   
   <url>
-    <loc>/about/</loc>
-  </url>
-  
-  <url>
     <loc>/en/01_en/</loc>
   </url>
   
@@ -65,6 +61,34 @@
   </url>
   
   <url>
+    <loc>/en/04_en/</loc>
+  </url>
+  
+  <url>
+    <loc>/en/05_en/</loc>
+  </url>
+  
+  <url>
+    <loc>/en/06_en/</loc>
+  </url>
+  
+  <url>
+    <loc>/en/07_en/</loc>
+  </url>
+  
+  <url>
+    <loc>/en/08_en/</loc>
+  </url>
+  
+  <url>
+    <loc>/en/09_en/</loc>
+  </url>
+  
+  <url>
+    <loc>/en/10_en/</loc>
+  </url>
+  
+  <url>
     <loc>/fr/01_fr/</loc>
   </url>
   
@@ -74,6 +98,34 @@
   
   <url>
     <loc>/fr/03_fr/</loc>
+  </url>
+  
+  <url>
+    <loc>/fr/04_fr/</loc>
+  </url>
+  
+  <url>
+    <loc>/fr/05_fr/</loc>
+  </url>
+  
+  <url>
+    <loc>/fr/06_fr/</loc>
+  </url>
+  
+  <url>
+    <loc>/fr/07_fr/</loc>
+  </url>
+  
+  <url>
+    <loc>/fr/08_fr/</loc>
+  </url>
+  
+  <url>
+    <loc>/fr/09_fr/</loc>
+  </url>
+  
+  <url>
+    <loc>/fr/10_fr/</loc>
   </url>
   
 </urlset>
