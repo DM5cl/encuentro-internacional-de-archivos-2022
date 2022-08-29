@@ -41,7 +41,7 @@ params:
   displayBiblioShort: true
   biblioHeading: "Bibliography"
   imageDir: "img"
-  menuClass: brief # brief | list
+  menuClass: brief 
   prevPageButtonText: "Anterior"
   nextPageButtonText: "Siguiente"
   entryPageSideBySideLayout: false
