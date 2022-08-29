@@ -3,7 +3,7 @@ label: I
 title: 'Presentación'
 subtitle: 'Del arte al archivo y del archivo al arte'
 type: page
-weight: 3
+weight: 10
 class: side-by-side
 contributor:
   - id: Alejandra Wolff
