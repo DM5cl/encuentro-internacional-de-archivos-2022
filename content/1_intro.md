@@ -6,7 +6,7 @@ type: page
 weight: 10
 
 contributor:
-  - role: ctb
+  - role: author
     first_name: Alejandra
     last_name: Wolff
     full_name: Alejandra Wolff
