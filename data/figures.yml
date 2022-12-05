@@ -51,7 +51,7 @@ figure_list:
   - id: "13"
     src: "figures/05/image_1.png"
     alt: "Figura 1. Ejemplos de documentos contenidas en las Carpetas de artistas del Archivo MSSA, donde se puede encontrar documentación como registros fotográficos, catálogos de pequeño formato, curriculum, recortes de prensa de artistas representados y no representados en la Colección de obras del MSSA."
-    caption: "Ejemplos de documentos contenidas en las Carpetas de artistas del Archivo MSSA, donde se puede encontrar documentación como registros fotográficos, catálogos de pequeño formato, curriculum, recortes de prensa de artistas representados y no representados en la Colección de obras del MSSA."
+    caption: "Figura 1. Ejemplos de documentos contenidas en las Carpetas de artistas del Archivo MSSA, donde se puede encontrar documentación como registros fotográficos, catálogos de pequeño formato, curriculum, recortes de prensa de artistas representados y no representados en la Colección de obras del MSSA."
   - id: "14"
     src: "figures/05/image_2.jpg"
     alt: "Archivo MSSA es un área activa del museo, desarrolla diferentes funciones y actividades desde acceso remoto a sus fondos y colecciones, difusión de investigación, publicaciones de sus política y apoyo a exposiciones."
@@ -79,7 +79,7 @@ figure_list:
   - id: "20"
     src: "figures/05/image_8.png"
     alt: ""
-    caption: "Figura 3."
+    caption: "Figura 8."
 
   - id: "21"
     src: "figures/06/Imagen_1.jpg"
@@ -203,3 +203,11 @@ figure_list:
     src: "figures/10/pic09.jpg"
     alt: 
     caption: "Foto 9. El Emperador Gynt. Autor: versión libre de Franklin Caicedo de la obra Peer Gynt de Heinrick Ibsen. Dirección: Lito Cruz. 1986. En escena: Franklin Caicedo. Autor: Jorge Brantmayer. Fuente: archivo de la Escena Teatral UC."
+  - id: "50"
+    src: "figures/ica_logo.png"
+    alt: 
+    caption: ""
+  - id: "51"
+    src: "figures/logo.png"
+    alt: 
+    caption: ""

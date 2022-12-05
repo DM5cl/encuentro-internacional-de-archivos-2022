@@ -16,3 +16,5 @@ de Archivos, ICA.
 
 Con el objetivo de crear una red de archivos artísticos
 latinoamericanos, donde compartir experiencias y discutir en torno a las prácticas documentales que caracterizan a los archivos de arte, se convocó a Instituciones e investigadores que custodian acervos, fondos y colecciones nacionales y extranjeras.
+
+{{< q-figure-group grid=2 id="50, 51" >}}
