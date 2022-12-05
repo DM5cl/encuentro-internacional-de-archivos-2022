@@ -211,3 +211,8 @@ figure_list:
     src: "figures/logo.png"
     alt: 
     caption: ""
+
+  - id: "52"
+    src: "figures/05/cuadro-comparativo-politicas-de-museo.png"
+    alt: "Figura 9: cuadro comparativo de cap&iacute;tulos de algunas pol&iacute;ticas de archivo de museo"
+    caption: "Figura 9: cuadro comparativo de cap&iacute;tulos de algunas pol&iacute;ticas de archivo de museo"
